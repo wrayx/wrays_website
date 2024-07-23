@@ -7,7 +7,7 @@ order: 4
 
 Hi there, I'm an AI student at KCL. I like programming and enjoy the idea of spotting subtle problems in our daily lives and using software programming to either solve them or make the process better. I'm using blog posts to document some of the steps I took to learn new things or set up projects.
 
-I also enjoy films and books, so I'll make some recommendations and share my thoughts on them here.
+<!-- I also enjoy films and books, so I'll make some recommendations and share my thoughts on them here. -->
 
 <!-- ### My fav movie:
 ![input image](/assets/img/resources/blade-runner.webp){: width="350" height="589" style="max-width: 350px" .right}
